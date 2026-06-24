@@ -1,0 +1,19 @@
+# Python virtual environment
+openvino-test/
+
+# Downloaded models (large files)
+models/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Temp scripts
+check_*.py
+diagnose_*.py
+bench_*.py
+analyze_*.py
+
+# VS Code
+.vscode/
